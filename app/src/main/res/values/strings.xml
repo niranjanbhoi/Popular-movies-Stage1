@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="movie_content_description">movieImage</string>
+    <string name="movie_text_hint">popular image</string>
+    <string name="movie_release_date">release_date</string>
+    <string name="iv_details_content_description">Movie_selected</string>
+    <string name="plotAnalysis">Plot Analysis :</string>
+    <string name="divider">|</string>
+    <string name="toprated_movies">TopRated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+</resources>
